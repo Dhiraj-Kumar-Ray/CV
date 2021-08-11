@@ -1,2 +1,2 @@
 # CV
-this is a general work on startin web devlopment.
+this is a general work on starting web devlopment.
